@@ -22,7 +22,7 @@ Please create a pull request for any changes, update or bugs. Thanks!
 You can use Composer to install the library
 
 ```
-composer require slakbal/gotowebinar
+composer require slakbal/gotowebinar:master
 ```
 
 If you have Laravel 5.5+ the package will be auto-discovered:
